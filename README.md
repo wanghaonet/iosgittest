@@ -1,4 +1,4 @@
 # iosgittest
 
 This is a testing project for xcode and Git.
-very interesting
+Very interesting!
