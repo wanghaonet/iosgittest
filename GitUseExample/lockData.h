@@ -10,5 +10,6 @@
 
 @interface lockData : NSObject
 
-@property (weak, nonomatic) NSString myString;
+@property (weak, nonatomic) NSString* myString;
+
 @end
