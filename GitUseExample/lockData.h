@@ -10,4 +10,5 @@
 
 @interface lockData : NSObject
 
+@property (weak, nonomatic) NSString myString;
 @end
